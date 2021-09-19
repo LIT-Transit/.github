@@ -20,7 +20,7 @@ Working with you to transform the world of public transport by making it easier 
 
 <img align="left" height="128" src="https://raw.githubusercontent.com/LIT-Transit/.github/main/profile/assets/cards/Benefits-Passenger-Experience.jpg" />
 
-Improve confidence in public transport and boost ridership boffering a superior travel experience with services that meet thhigh expectations of today’s passengers
+Improve confidence in public transport and boost ridership by offering a superior travel experience with services that meet the high expectations of today’s passengers
 ```
 ```
 ---
@@ -29,7 +29,7 @@ Improve confidence in public transport and boost ridership boffering a superior 
 
 <img align="right" height="128" src="https://raw.githubusercontent.com/LIT-Transit/.github/main/profile/assets/cards/Benefits-Operational-Control.jpg" />
 
-Deliver high quality public transport services while optimizinresources, with streamlined, responsive and proactive workinpractices in the operations control center
+Deliver high quality public transport services while optimizig nresources, with streamlined, responsive and proactive working practices in the operations control center
 ```
 ```
 ---
@@ -38,7 +38,7 @@ Deliver high quality public transport services while optimizinresources, with st
 
 <img align="left" height="128" src="https://raw.githubusercontent.com/LIT-Transit/.github/main/profile/assets/cards/Benefits-Smart-Mobility.jpg" />
 
-Embrace the remarkable opportunities of modern transportechnologies and break down the barriers that exist within youexisting infrastructure and your city
+Embrace the remarkable opportunities of modern transport technologies and break down the barriers that exist within your existing infrastructure and your city
 ```
 ```
 ---
