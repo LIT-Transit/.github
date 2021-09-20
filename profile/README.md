@@ -1,6 +1,8 @@
 ## Public transport. Reimagined. 🚌 🚇 🚄
 
-![The LIT Transit logo comprised of a blue circle containing the word "LIT" followed by gray text spelling "Transit".](https://raw.githubusercontent.com/LIT-Transit/.github/main/profile/assets/logo.svg)
+<p align="center">
+<img alt="The LIT Transit logo comprised of a blue circle containing the word 'LIT' followed by gray text spelling 'Transit'." src="https://raw.githubusercontent.com/LIT-Transit/.github/main/profile/assets/logo.gif">
+</p>
 
 <p align="center">
     <a href="https://lit-transit.com/" alt="Website" target="_blank"><img height="32" src="https://raw.githubusercontent.com/LIT-Transit/.github/main/profile/assets/links/globe.svg"></a>
